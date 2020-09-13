@@ -1,0 +1,21 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "description": "[![Netlify Status](https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status)](https://app.netlify.com/sites/brittanychiang/deploys)",
+  "main": "gatsby-browser.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AKluger/my-portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AKluger/my-portfolio/issues"
+  },
+  "homepage": "https://github.com/AKluger/my-portfolio#readme"
+}
