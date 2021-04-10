@@ -12,7 +12,7 @@ skills:
   - Responsive Design
 ---
 
-Originally trained as a jazz musician, I now apply my creativity and love of complexity and patterns into my work as a developer. Formerly self-taught, I have now augmented my skills with the cutting-edge curriculum of [UPenn's full-stack coding bootcamp](https://bootcamp.sas.upenn.edu/).
+Originally trained as a jazz musician, I now apply my creativity and love of complexity and patterns into my work at Linode. As a graduate of [UPenn's full-stack coding bootcamp](https://bootcamp.sas.upenn.edu/, I incorporate knowledge of web-development into my day-to-day work of assisting our wide array of customers.
 
 I currently reside in Philadelphia, PA. Most days you will find me at my desk helping out the fine customers of [Linode](https://www.linode.com/) and keeping our platform safe as a member of the Trust & Safety Team. When not glued to a screen, I enjoy exploring the city by bicycle and helping to train the marvelous canines of the [Penn Vet Working Dog Center](https://www.vet.upenn.edu/research/centers-initiatives/penn-vet-working-dog-center).
 
